@@ -34,5 +34,7 @@ const person = {
     }
 }
 
+// Test
+
 // console.log(global)
 person.delayLog()
