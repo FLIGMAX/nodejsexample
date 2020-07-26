@@ -36,5 +36,3 @@ const person = {
 
 // console.log(global)
 person.delayLog()
-
-console.log()
